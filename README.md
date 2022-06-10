@@ -1,6 +1,7 @@
-### Welcome!
+## Welcome!
 <br>
-<p>I am a student for department of software at Gachon University.</p>
+<p><b>I'm majoring in Department of Software, Gachon University.</b></p>
+<br>
 <h3> Tech Stacks </h3>
 <hr>
 <h3> Languages </h3>

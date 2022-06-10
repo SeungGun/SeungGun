@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome!
 <br>
 <p><b>I'm majoring in Department of Software, Gachon University.</b></p>
 <br>

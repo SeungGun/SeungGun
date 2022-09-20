@@ -2,6 +2,7 @@
 <br>
 <p><b>I'm majoring in Department of Software, Gachon University.</b></p>
 <br>
+<p>I want to be a competent developer who can solve problems on my own. </p> 
 <h3> Tech Stacks </h3>
 <hr>
 <h3> Languages </h3>

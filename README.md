@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=XCode&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF"/>
+
 
 </p>
 <h3> ETC. </h3>

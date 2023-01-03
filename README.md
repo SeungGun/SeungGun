@@ -20,7 +20,6 @@
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/>
 </p>
 <h3> Tools </h3>
 <p>
@@ -49,8 +48,8 @@
 <h3> Studying & To Study </h3>
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/>
 </p>
 

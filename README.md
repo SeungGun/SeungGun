@@ -58,6 +58,9 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF" width=auto height=23px/>
 </p>
 
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ssg2864)](https://solved.ac/ssg2864)
 <!--
 **SeungGun/SeungGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

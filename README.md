@@ -12,15 +12,15 @@
 
 [[Android]](https://github.com/SeungGun/ShortFo) - ShortInfo, 한눈에 보는 짧은 정보 잠금화면 어플 (21.04 ~ 21.11)
 
-[Full-Stack] - 안산강서고 알리미 및 매점 서비스 (21.07 ~ O&M)
+[Full-Stack] - 안산강서고 알리미 및 매점 전자 상거래 서비스 (21.07 ~ O&M)
 
 [[Android]](https://github.com/Breaking-Dope/breaking-android) - Breaking, 모두가 기자가 된다. (22.06 ~ 22.09)
 
-[[Backend]](https://github.com/SeungGun/Chord-Player-Backend) - 노래 가사 및 코드 악보 시스템 (23.06 ~ 23.07)
+[[Backend]](https://github.com/SeungGun/Chord-Player-Backend) - 노래 가사 및 코드 악보 제공 시스템 (23.06 ~ 23.07)
 
 [[Backend]](https://github.com/Wacathon/IM-backend) - IM, 온라인 명함 서비스 (23.08)
 
-[[Backend]](https://github.com/HeeHeePresso/Backend) - 바나프레소 MSA 환경 클론코딩  (24.02 ~ Present) 
+[[Backend]](https://github.com/HeeHeePresso/Backend) - 바나프레소 MSA 환경 클론코딩 (24.02 ~ Present) 
 
 
 

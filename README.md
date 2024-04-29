@@ -1,10 +1,29 @@
-# Welcome!
-<br>
+# Hello, I'm Seunggun
+- I wish to be Backend Developer who solve the problems based on comprehending business and flow of entire systems.
+- Solve based on various experiences and insignts.
 
-#### I'm majoring in Department of Software, Gachon University.
+## Project Experiences
 
-<br>
-<p>I want to be a competent developer who can solve problems on my own. </p> 
+[[Arduino]](https://github.com/SeungGun/Vacuum-Cleaner-RC-Car) - 조종 청소 RC카 (19.08 ~ 19.09)
+
+[[Android]](https://github.com/SeungGun/ContactBible) - 심플 조작 바이블 (20.07 ~ 20.09)
+
+[[Full-Stack]](https://github.com/SeungGun/Babsooni) - (외주) 주문 관리 시스템 어플 프로토타입 (21.03 ~ 21.05)
+
+[[Android]](https://github.com/SeungGun/ShortFo) - ShortInfo, 한눈에 보는 짧은 정보 잠금화면 어플 (21.04 ~ 21.11)
+
+[Full-Stack] - 안산강서고 알리미 및 매점 서비스 (21.07 ~ O&M)
+
+[[Android]](https://github.com/Breaking-Dope/breaking-android) - Breaking, 모두가 기자가 된다. (22.06 ~ 22.09)
+
+[[Backend]](https://github.com/SeungGun/Chord-Player-Backend) - 노래 가사 및 코드 악보 시스템 (23.06 ~ 23.07)
+
+[[Backend]](https://github.com/Wacathon/IM-backend) - IM, 온라인 명함 서비스 (23.08)
+
+[[Backend]](https://github.com/HeeHeePresso/Backend) - 바나프레소 MSA 환경 클론코딩  (24.02 ~ Present) 
+
+
+
 
 ## 🛠 Teck Stacks
 
@@ -24,7 +43,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF" width=auto height=23px/>
 </p>
 <h3> Platforms </h3>
 <p>
@@ -53,17 +71,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon ec2&logoColor=FFFFFF" width=auto height=23px/>
-  
-</p>
-<h3> Studying</h3>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=FFFFFF" width=auto height=23px/>
-</p>
+  <img src="https://img.shields.io/badge/Amazon RDS-FF9900?style=flat-square&logo=Amazon rds&logoColor=FFFFFF" width=auto height=23px/>
 
----
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ssg2864)](https://solved.ac/ssg2864)
 <!--
 **SeungGun/SeungGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

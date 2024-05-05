@@ -1,6 +1,6 @@
 # Hello, I'm Seunggun
 - I wish to be Backend Developer who solve the problems based on comprehending business and flow of entire systems.
-- Solve based on various experiences and insignts.
+- Solve based on various experiences and insights.
 
 ## Project Experiences
 

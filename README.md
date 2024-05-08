@@ -12,7 +12,7 @@
 
 [[Android]](https://github.com/SeungGun/ShortFo) - ShortInfo, 한눈에 보는 짧은 정보 잠금화면 어플 (21.04 ~ 21.11)
 
-[Full-Stack] - 안산강서고 알리미 및 매점 전자 상거래 서비스 (21.07 ~ O&M)
+[Full-Stack] - 안산강서고 알리미 및 매점 전자 상거래 서비스 (21.07 ~ O&M); Backend Migration in progress
 
 [[Android]](https://github.com/Breaking-Dope/breaking-android) - Breaking, 모두가 기자가 된다. (22.06 ~ 22.09)
 
